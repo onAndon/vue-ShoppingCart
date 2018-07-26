@@ -1,0 +1,22 @@
+/* CSS Document */
+/* 基本重置样式 */
+html,body,ul,li,ol,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,form,table,span,a,i,em,b,strong,img,input,button { margin:0; padding:0;}
+i,em { font-style:normal; }
+h1,h2,h3,h4,h5,h6,b,strong { font-weight:normal; font-size: .12rem;}
+img { border:none; display: block;}
+input,button{ outline:none; border: 0;background: none;}
+body{ color:#333; font:.12rem "微软雅黑","Arial Narrow",HELVETICA; }
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+ul li,ol li, li { list-style:none; }
+a{ text-decoration:none; color:#666; }
+a:hover{ color:#f30; }
+/* 公用样式 */
+
+.relative{ position:relative; }
+.fl{ float:left; }
+.fr{ float:right; }
+.clearfix:after{ content:""; clear:both; visibility:hidden; overflow:hidden; display:block; 	height:0; font-size:1px;}

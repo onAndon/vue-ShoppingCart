@@ -1,0 +1,43 @@
+/*******************************购物车的icon*******************************/
+._icon{
+	display: inline-block;
+	width: 0.2rem;
+	height: 0.19rem;
+	
+}
+._icon_delete{
+	background: url(../img/gouwuche_tubiao_ios/@1x/tool_icon_deleto_nor.png);
+	background-size:100% 100%;
+}
+._icon_tick{
+	background: url(../img/gouwuche_tubiao_ios/@1x/leftbar_msg_eidt_sel.png);
+	background-size:100% 100%;
+}
+._icon_add{
+	background: url(../img/gouwuche_tubiao_ios/@1x/tool_btn_note_focus.png);
+	background-size:100% 100%;
+}
+._icon_minus{
+	background: url(../img/gouwuche_tubiao_ios/@1x/tool_bto_cancel_focus.png);
+	background-size:100% 100%;
+}
+._icon_circle{
+	background: url(../img/gouwuche_tubiao_ios/@1x/leftbar_msg_eidt_nor.png);
+	background-size:100% 100%;
+}
+._icon_solidPoint{
+	background: url(../img/gouwuche_tubiao_ios/@1x/leftbar_msg_note_dis.png);
+	background-size:100% 100%;
+}
+._icon_point{
+	background: url(../img/gouwuche_tubiao_ios/@1x/leftbar_msg_note_nor.png);
+	background-size:100% 100%;
+}
+
+/*******************************购物车的icon结束*******************************/
+
+._icon_backLeftArrow{
+	background: url(../img/shouye_tubiao_ios/@1x/nav_btn_back_nor.png);
+	background-size:100% 100%;
+}
+

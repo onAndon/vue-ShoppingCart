@@ -1,0 +1,32 @@
+
+@font-face {font-family: "iconfont";
+  src:url('../fonts/iconfont.ttf?t=1531411283795') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-03f:before { content: "\e60a"; }
+
+.icon-remen:before { content: "\e638"; }
+
+.icon-shouye:before { content: "\e61e"; }
+
+.icon-ziyuan:before { content: "\e622"; }
+
+.icon-weibiaoti-_huabanfuben:before { content: "\e61a"; }
+
+.icon-ziyuan-copy:before { content: "\e639"; }
+
+.icon-weibiaoti-_huabanfuben-copy:before { content: "\e63a"; }
+
+.icon-shouye-copy:before { content: "\e63b"; }
+
+.icon-remen-copy:before { content: "\e63c"; }
+
